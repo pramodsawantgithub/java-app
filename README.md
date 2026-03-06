@@ -11,7 +11,7 @@
     docker tag java-app demo-app:java-1.0
     
 
-### Changes
+### # Changes
 [23.Aug.2021]
 
 Gradle wrapper version upgraded from version 6.x to 7.0 
